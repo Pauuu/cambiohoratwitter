@@ -1,0 +1,25 @@
+{
+  "name": "cambio_hora_twitter",
+  "version": "1.0.0",
+  "description": "cambiar la hora del nombre de usuario de twitter",
+  "main": "index.js",
+  "scripts": {
+    "serve": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pauuu/cambioNombreTwitter.git"
+  },
+  "author": "pau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pauuu/cambioNombreTwitter/issues"
+  },
+  "homepage": "https://github.com/Pauuu/cambioNombreTwitter#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "lite-server": "^2.6.1",
+    "twitter": "^1.7.1"
+  }
+}
